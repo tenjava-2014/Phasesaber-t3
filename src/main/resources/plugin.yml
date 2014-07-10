@@ -1,0 +1,3 @@
+name: Phasesaber-t3
+main: com.tenjava.entries.Phasesaber.t3.TenJava
+version: '${project.version}'
